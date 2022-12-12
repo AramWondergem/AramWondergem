@@ -67,7 +67,7 @@
  - go on cycling holidays🚵‍
  - cook and dine with friends 🍽👨‍🍳
 - grow vegetables 🍅🥦🌽🧄🌱
- - solving [advent of code](/AramWondergem/advent-of-code-2022) puzzles👨‍💻
+ - solve [advent of code](/AramWondergem/advent-of-code-2022) puzzles👨‍💻
 
  ###### fotographer: Lange, F. de.  Source: 858029/collectie Het Utrechts Archief 👉.
 
