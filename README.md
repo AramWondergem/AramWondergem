@@ -8,6 +8,12 @@
   <a href="https://www.linkedin.com/in/aramwondergem/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+ &nbsp;
+ <a href="aramWondergemCV.pdf">
+    <img src="https://img.shields.io/badge/%F0%9F%A7%BE-CV-yellow?style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+ 
+ 
   </div>
   
   <br/>
@@ -53,8 +59,17 @@
   📫 You can reach me via [<img src="https://img.shields.io/badge/-aramwondergem%40gmail.com-yellow?style=for-the-badge&logo=gmail" alt="mail badge"/>](mailto:aramwondergem@gmail.com) or <a href="https://www.linkedin.com/in/aramwondergem/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
  
+ 
+ 🔓🕰 In my freetime, I like to: 
+ 
+ - play tennis🎾
+ - go on cycling holidays🚵‍
+ - cook and dine with friends 🍽👨‍🍳
+- grow vegetables 🍅🥦🌽🧄🌱
+ - solving [advent of code](/AramWondergem/advent-of-code-2022) puzzles👨‍💻
+
+ ###### fotographer: Lange, F. de.  Source: 858029/collectie Het Utrechts Archief 👉.
 
 
 
@@ -69,4 +84,4 @@ AramWondergem/AramWondergem is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
- Lange, F. de, fotograaf 858029/ collectie Het Utrechts Archief.
+
