@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/%F0%9F%A7%BE-CV-yellow?style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
  
- 
+
   </div>
   
   <br/>
@@ -44,8 +44,12 @@
   <br/>
   
   <div align="center" > 
-  <a href="https://github.com/AramWondergem/final-assignment-bootcamp">
-    <img src="https://img.shields.io/badge/-Final%20assignment-red?style=for-the-badge" alt="final asssignment badge"/>
+  <a href="https://github.com/AramWondergem/final-assignment-bootcamp-backend">
+    <img src="https://img.shields.io/badge/Final%20assignment-backend-red?style=for-the-badge" alt="final asssignment backend badge"/>
+  </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://github.com/AramWondergem/final-assignement-bootcamp-frontend">
+    <img src="https://img.shields.io/badge/Final%20assignment-frontend-red?style=for-the-badge" alt="final asssignment frontend badge "/>
   </a>
   </div>
   
