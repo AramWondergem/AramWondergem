@@ -1,4 +1,4 @@
-<img align="right"  src="X13968-L3368_Utrechts-Archief_Saturnus_600 (1).jpg" alt="LinkedIn Badge" height="800" title="Lange, F. de, fotograaf 858029/ collectie Het Utrechts Archief." />
+<!-- <img align="right"  src="X13968-L3368_Utrechts-Archief_Saturnus_600 (1).jpg" alt="LinkedIn Badge" height="800" title="Lange, F. de, fotograaf 858029/ collectie Het Utrechts Archief." /> -->
  
 ## Hi there, I'm [Aram](https://www.linkedin.com/in/aramwondergem/) 👋
 
@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  &nbsp;
- <a href="aramWondergemCV.pdf">
+ <a href="CV Aram Wondergem English.pdf">
     <img src="https://img.shields.io/badge/%F0%9F%A7%BE-CV-yellow?style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
  
@@ -18,7 +18,19 @@
   
   <br/>
   
- 👋 Welcome on my github profile. I started a bootcamp at <a href="https://www.novi.nl/">Novi<a> to become a full stack developer. I am learning the following languages and tools 👇
+👋 Welcome on my github profile. I am a junior full stack developer based in New York City 🗽.  I moved with my wife from the Netherlands to New York City in September. I finished a boot camp to become a full stack developer last year in the Netherlands. Until the move, I worked as a junior developer at a small consultancy company called <a href="https://www.trailblazers.nl/en/
+">Trailblazers</a>.
+
+👀 At the moment, I am looking for a junior full stack developer position at a large company in New York City. My strengths lie in collaborative work, solution-oriented thinking, and perseverance. I am eager to apply these skills in a role that contributes to making the world a better place. I already have an EAD, so I do not need US work visa sponsorship. 
+
+📫 You can reach me via [<img src="https://img.shields.io/badge/-aramwondergem%40gmail.com-yellow?style=for-the-badge&logo=gmail" alt="mail badge"/>](mailto:aramwondergem@gmail.com) or <a href="https://www.linkedin.com/in/aramwondergem/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+🌱 Besides my job search, I am studying to become an Orcale Certified Professional Java SE 17 Developer. Furthermore, I still work on a project for my former employer. 
+
+During the boot camp and my previous job, I worked with the following languages and tools 👇
+
   
   
   <br/>
@@ -29,21 +41,24 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span>Backend:    </span>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+   
+  
   </div>
   
   <br/>
   
 
-  You can find my final assignment on which I will work until february here 👇 
+  You can find my final assignment of the bootcamp which I finished last year here 👇 
   
   <br/>
   
-  <div align="center" > 
+  <div > 
   <a href="https://github.com/AramWondergem/final-assignment-bootcamp-backend">
     <img src="https://img.shields.io/badge/Final%20assignment-backend-red?style=for-the-badge" alt="final asssignment backend badge"/>
   </a>
@@ -54,15 +69,10 @@
   </div>
   
   <br/>
+
   
   
   
-👨‍💼 At the moment, I am looking for a **new challenge as a junior developer** to launch my career like a rocket 👉 In February, I will finish the bootcamp. I have a strong interest in sustainability and climate change. My strong points are working together, solution-orientated thinking, and my empathy. I would like to use these skills in a job to make the world a more sustainable place.
-  
-  
-  📫 You can reach me via [<img src="https://img.shields.io/badge/-aramwondergem%40gmail.com-yellow?style=for-the-badge&logo=gmail" alt="mail badge"/>](mailto:aramwondergem@gmail.com) or <a href="https://www.linkedin.com/in/aramwondergem/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
  
  
  🔓🕰 In my freetime, I like to: 
@@ -73,7 +83,6 @@
 - grow vegetables 🍅🥦🌽🧄🌱
  - solve [advent of code](/AramWondergem/advent-of-code-2022) puzzles👨‍💻
 
- ###### fotographer: Lange, F. de.  Source: 858029/collectie Het Utrechts Archief 👉.
 
 
 
