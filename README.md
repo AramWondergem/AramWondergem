@@ -66,6 +66,10 @@ During the boot camp and my previous job, I worked with the following languages 
    <a href="https://github.com/AramWondergem/final-assignement-bootcamp-frontend">
     <img src="https://img.shields.io/badge/Final%20assignment-frontend-red?style=for-the-badge" alt="final asssignment frontend badge "/>
   </a>
+
+   <a href="https://github.com/AramWondergem/waterwoorden">
+    <img src="https://img.shields.io/badge/Personal_Project-WaterWoorden-red?style=for-the-badge" alt="personal project WaterWoorden"/>
+  </a>
   </div>
   
   <br/>
