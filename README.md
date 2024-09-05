@@ -52,12 +52,13 @@
 
 🌱 Besides my job search, I work/worked on the following projects: 
 
-- [Portfolio website](https://github.com/AramWondergem/wondergems)
-- [Leetcode](https://github.com/AramWondergem/leetcode-solutions)
-- [Waste stream app](https://github.com/AramWondergem/waste-stream-app)
-- [WaterWoorden app](https://github.com/AramWondergem/waterwoorden)
-- [Final assignment bootcamp frontend](https://github.com/AramWondergem/final-assignement-bootcamp-frontend)
-- [Final assignment bootcamp backend](https://github.com/AramWondergem/final-assignment-bootcamp-backend)
+- [AED checker application](https://www.trailblazers.nl/aed-checker-applicatie-live/): a project of my former employer Trailblazers
+- [Portfolio website](https://github.com/AramWondergem/wondergems): a personal project
+- [Leetcode](https://github.com/AramWondergem/leetcode-solutions): the data structures and algorithms [course](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/)
+- [Waste stream app](https://github.com/AramWondergem/waste-stream-app): the final project of the software stack for climate tech [course](https://www.terra.do/climate-change-courses/software-for-climate/) of Terra.do
+- [WaterWoorden app](https://github.com/AramWondergem/waterwoorden): an application for an art project
+- [Final assignment frontend](https://github.com/AramWondergem/final-assignement-bootcamp-frontend): a project for my [bootcamp](https://www.novi.nl/full-stack-developer/)
+- [Final assignment backend](https://github.com/AramWondergem/final-assignment-bootcamp-backend): a project for my [bootcamp](https://www.novi.nl/full-stack-developer/)
 
  
  🔓🕰 In my freetime, I like to: 
