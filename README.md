@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-💪 I work with the following languages and tools 👇
+💪 I work with the following languages and frameworks 👇
   
   <br/>
   
@@ -61,7 +61,7 @@
 - [Final assignment backend](https://github.com/AramWondergem/final-assignment-bootcamp-backend): a project for my [bootcamp](https://www.novi.nl/full-stack-developer/)
 
  
- 🔓🕰 In my freetime, I like to: 
+ 🔓🕰 In my free time, I like to: 
  
  - play tennis🎾
  - go on cycling holidays🚵‍
