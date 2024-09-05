@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-💪 I worked with the following languages and tools 👇
+💪 I work with the following languages and tools 👇
   
   <br/>
   
