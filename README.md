@@ -57,8 +57,8 @@
 - [Leetcode](https://github.com/AramWondergem/leetcode-solutions): the data structures and algorithms [course](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/)
 - [Waste stream app](https://github.com/AramWondergem/waste-stream-app): the final project of the software stack for climate tech [course](https://www.terra.do/climate-change-courses/software-for-climate/) of Terra.do
 - [WaterWoorden app](https://github.com/AramWondergem/waterwoorden): an application for an art project
-- [Final assignment frontend](https://github.com/AramWondergem/final-assignement-bootcamp-frontend): a project for my [bootcamp](https://www.novi.nl/full-stack-developer/)
-- [Final assignment backend](https://github.com/AramWondergem/final-assignment-bootcamp-backend): a project for my [bootcamp](https://www.novi.nl/full-stack-developer/)
+- [Final assignment frontend](https://github.com/AramWondergem/final-assignement-bootcamp-frontend): the final project for my [bootcamp](https://www.novi.nl/full-stack-developer/)
+- [Final assignment backend](https://github.com/AramWondergem/final-assignment-bootcamp-backend): the final project for my [bootcamp](https://www.novi.nl/full-stack-developer/)
 
  
  🔓🕰 In my free time, I like to: 
